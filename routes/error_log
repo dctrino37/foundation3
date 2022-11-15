@@ -1,0 +1,196 @@
+[22-Jul-2022 11:28:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/catangsd/public_html/foundation/routes/admin.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/routes/admin.php on line 30
+[22-Jul-2022 11:46:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/catangsd/public_html/foundation/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/routes/channels.php on line 16
+[22-Jul-2022 11:46:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/catangsd/public_html/foundation/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/routes/console.php on line 17
+[22-Jul-2022 11:46:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/catangsd/public_html/foundation/routes/web.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/routes/web.php on line 29
+[22-Jul-2022 12:01:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/catangsd/public_html/foundation/routes/admin.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/routes/admin.php on line 30
+[22-Jul-2022 12:36:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/catangsd/public_html/foundation/routes/web.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/routes/web.php on line 29
+[22-Jul-2022 12:36:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/catangsd/public_html/foundation/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/routes/console.php on line 17
+[22-Jul-2022 12:36:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/catangsd/public_html/foundation/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/routes/channels.php on line 16
+[25-Jul-2022 03:14:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/catangsd/public_html/foundation/routes/admin.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/routes/admin.php on line 30
+[25-Jul-2022 03:14:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/catangsd/public_html/foundation/routes/admin.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/routes/admin.php on line 30
+[25-Jul-2022 03:15:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/catangsd/public_html/foundation/routes/admin.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/routes/admin.php on line 30
+[25-Jul-2022 03:15:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/catangsd/public_html/foundation/routes/admin.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/routes/admin.php on line 30
+[25-Jul-2022 03:15:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/catangsd/public_html/foundation/routes/admin.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/routes/admin.php on line 30
+[25-Jul-2022 03:15:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/catangsd/public_html/foundation/routes/admin.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/routes/admin.php on line 30
+[25-Jul-2022 03:15:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/catangsd/public_html/foundation/routes/admin.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/routes/admin.php on line 30
+[25-Jul-2022 03:15:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/catangsd/public_html/foundation/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/routes/channels.php on line 16
+[25-Jul-2022 03:15:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/catangsd/public_html/foundation/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/routes/channels.php on line 16
+[25-Jul-2022 03:15:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/catangsd/public_html/foundation/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/routes/channels.php on line 16
+[25-Jul-2022 03:15:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/catangsd/public_html/foundation/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/routes/channels.php on line 16
+[25-Jul-2022 03:15:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/catangsd/public_html/foundation/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/routes/channels.php on line 16
+[25-Jul-2022 03:15:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/catangsd/public_html/foundation/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/routes/console.php on line 17
+[25-Jul-2022 03:15:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/catangsd/public_html/foundation/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/routes/channels.php on line 16
+[25-Jul-2022 03:15:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/catangsd/public_html/foundation/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/routes/console.php on line 17
+[25-Jul-2022 03:15:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/catangsd/public_html/foundation/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/routes/console.php on line 17
+[25-Jul-2022 03:15:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/catangsd/public_html/foundation/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/routes/console.php on line 17
+[25-Jul-2022 03:15:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/catangsd/public_html/foundation/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/routes/channels.php on line 16
+[25-Jul-2022 03:15:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/catangsd/public_html/foundation/routes/web.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/routes/web.php on line 29
+[25-Jul-2022 03:15:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/catangsd/public_html/foundation/routes/web.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/routes/web.php on line 29
+[25-Jul-2022 03:15:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/catangsd/public_html/foundation/routes/web.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/routes/web.php on line 29
+[25-Jul-2022 03:15:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/catangsd/public_html/foundation/routes/web.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/routes/web.php on line 29
+[25-Jul-2022 03:15:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/catangsd/public_html/foundation/routes/web.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/routes/web.php on line 29
+[25-Jul-2022 03:15:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/catangsd/public_html/foundation/routes/web.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/routes/web.php on line 29
+[25-Jul-2022 03:15:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/catangsd/public_html/foundation/routes/web.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/routes/web.php on line 29
+[02-Aug-2022 04:59:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/catangsd/public_html/foundation/routes/admin.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/routes/admin.php on line 30
+[02-Aug-2022 04:59:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/catangsd/public_html/foundation/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/routes/channels.php on line 16
+[02-Aug-2022 04:59:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/catangsd/public_html/foundation/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/routes/console.php on line 17
+[02-Aug-2022 04:59:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/catangsd/public_html/foundation/routes/web.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/routes/web.php on line 29
+[02-Aug-2022 20:14:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/catangsd/public_html/foundation/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/routes/channels.php on line 16
+[02-Aug-2022 20:15:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/catangsd/public_html/foundation/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/routes/console.php on line 17
+[03-Aug-2022 09:28:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/catangsd/public_html/foundation/routes/admin.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/routes/admin.php on line 30
+[03-Aug-2022 09:28:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/catangsd/public_html/foundation/routes/web.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/routes/web.php on line 29
+[08-Aug-2022 23:43:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/catangsd/public_html/foundation/routes/admin.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/routes/admin.php on line 30
+[08-Aug-2022 23:44:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/catangsd/public_html/foundation/routes/admin.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/routes/admin.php on line 30
+[08-Aug-2022 23:45:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/catangsd/public_html/foundation/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/routes/channels.php on line 16
+[08-Aug-2022 23:45:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Broadcast' not found in /home/catangsd/public_html/foundation/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/routes/channels.php on line 16
+[08-Aug-2022 23:46:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/catangsd/public_html/foundation/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/routes/console.php on line 17
+[08-Aug-2022 23:46:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/catangsd/public_html/foundation/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/routes/console.php on line 17
+[08-Aug-2022 23:46:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/catangsd/public_html/foundation/routes/web.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/routes/web.php on line 29
+[08-Aug-2022 23:46:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home/catangsd/public_html/foundation/routes/web.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/routes/web.php on line 29

@@ -1,0 +1,34 @@
+cache:
+  paths:
+    - vendor/
+
+before_script:
+  - composer install
+  - cp env.txt .env
+  # Generate an application key. Re-cache.
+  - php artisan key:generate
+  - php artisan config:cache
+  # Run database migrations.
+  - php artisan migrate
+  # Run database seed
+  - php artisan db:seed
+
+stages:
+  - build
+
+build:
+  stage: build
+  image: alpine
+  script:
+    - ls -la
+    - pwd
+    - cd ..
+    - rm -rf /home/devzr01s/public_html/larabase
+    - cp -R laravel_base /home/devzr01s/public_html/larabase
+    - cd /home/devzr01s/public_html/larabase
+    - pwd
+    - composer dump-autoload
+    - php artisan config:cache && php artisan cache:clear
+    - find . -type f -exec chmod 644 {} \; && find . -type d -exec chmod 755 {} \;
+    - chmod -R 777 storage
+    - wget https://dev.01s.in/larabase/public/api/sendmail/harsimran.singh@01s.in/Live%20deployment%20done%20successfully.

@@ -1,0 +1,40 @@
+[30-Jul-2022 16:40:42 America/New_York] PHP Notice:  Undefined variable: product in /home/catangsd/public_html/foundation/resources/views/web/homePage.blade.php on line 180
+[30-Jul-2022 16:40:42 America/New_York] PHP Notice:  Trying to get property 'whatsapp_no' of non-object in /home/catangsd/public_html/foundation/resources/views/web/homePage.blade.php on line 180
+[30-Jul-2022 16:40:42 America/New_York] PHP Notice:  Undefined variable: product in /home/catangsd/public_html/foundation/resources/views/web/homePage.blade.php on line 186
+[30-Jul-2022 16:40:42 America/New_York] PHP Notice:  Trying to get property 'calling_no' of non-object in /home/catangsd/public_html/foundation/resources/views/web/homePage.blade.php on line 186
+[30-Jul-2022 16:40:43 America/New_York] PHP Notice:  Undefined variable: product in /home/catangsd/public_html/foundation/resources/views/web/homePage.blade.php on line 180
+[30-Jul-2022 16:40:43 America/New_York] PHP Notice:  Trying to get property 'whatsapp_no' of non-object in /home/catangsd/public_html/foundation/resources/views/web/homePage.blade.php on line 180
+[30-Jul-2022 16:40:43 America/New_York] PHP Notice:  Undefined variable: product in /home/catangsd/public_html/foundation/resources/views/web/homePage.blade.php on line 186
+[30-Jul-2022 16:40:43 America/New_York] PHP Notice:  Trying to get property 'calling_no' of non-object in /home/catangsd/public_html/foundation/resources/views/web/homePage.blade.php on line 186
+[03-Aug-2022 16:07:33 America/New_York] PHP Notice:  Undefined variable: product in /home/catangsd/public_html/foundation/resources/views/web/homePage.blade.php on line 180
+[03-Aug-2022 16:07:33 America/New_York] PHP Notice:  Trying to get property 'whatsapp_no' of non-object in /home/catangsd/public_html/foundation/resources/views/web/homePage.blade.php on line 180
+[03-Aug-2022 16:07:33 America/New_York] PHP Notice:  Undefined variable: product in /home/catangsd/public_html/foundation/resources/views/web/homePage.blade.php on line 186
+[03-Aug-2022 16:07:33 America/New_York] PHP Notice:  Trying to get property 'calling_no' of non-object in /home/catangsd/public_html/foundation/resources/views/web/homePage.blade.php on line 186
+[14-Aug-2022 07:14:11 America/New_York] PHP Notice:  Undefined variable: product in /home/catangsd/public_html/foundation/resources/views/web/homePage.blade.php on line 180
+[14-Aug-2022 07:14:11 America/New_York] PHP Notice:  Trying to get property 'whatsapp_no' of non-object in /home/catangsd/public_html/foundation/resources/views/web/homePage.blade.php on line 180
+[14-Aug-2022 07:14:11 America/New_York] PHP Notice:  Undefined variable: product in /home/catangsd/public_html/foundation/resources/views/web/homePage.blade.php on line 186
+[14-Aug-2022 07:14:11 America/New_York] PHP Notice:  Trying to get property 'calling_no' of non-object in /home/catangsd/public_html/foundation/resources/views/web/homePage.blade.php on line 186
+[19-Aug-2022 10:40:35 America/New_York] PHP Notice:  Undefined variable: product in /home/catangsd/public_html/foundation/resources/views/web/homePage.blade.php on line 180
+[19-Aug-2022 10:40:35 America/New_York] PHP Notice:  Trying to get property 'whatsapp_no' of non-object in /home/catangsd/public_html/foundation/resources/views/web/homePage.blade.php on line 180
+[19-Aug-2022 10:40:35 America/New_York] PHP Notice:  Undefined variable: product in /home/catangsd/public_html/foundation/resources/views/web/homePage.blade.php on line 186
+[19-Aug-2022 10:40:35 America/New_York] PHP Notice:  Trying to get property 'calling_no' of non-object in /home/catangsd/public_html/foundation/resources/views/web/homePage.blade.php on line 186
+[19-Aug-2022 11:36:11 America/New_York] PHP Notice:  Undefined variable: product in /home/catangsd/public_html/foundation/resources/views/web/homePage.blade.php on line 180
+[19-Aug-2022 11:36:11 America/New_York] PHP Notice:  Trying to get property 'whatsapp_no' of non-object in /home/catangsd/public_html/foundation/resources/views/web/homePage.blade.php on line 180
+[19-Aug-2022 11:36:11 America/New_York] PHP Notice:  Undefined variable: product in /home/catangsd/public_html/foundation/resources/views/web/homePage.blade.php on line 186
+[19-Aug-2022 11:36:11 America/New_York] PHP Notice:  Trying to get property 'calling_no' of non-object in /home/catangsd/public_html/foundation/resources/views/web/homePage.blade.php on line 186
+[24-Aug-2022 18:01:42 America/New_York] PHP Notice:  Undefined variable: product in /home/catangsd/public_html/foundation/resources/views/web/homePage.blade.php on line 180
+[24-Aug-2022 18:01:42 America/New_York] PHP Notice:  Trying to get property 'whatsapp_no' of non-object in /home/catangsd/public_html/foundation/resources/views/web/homePage.blade.php on line 180
+[24-Aug-2022 18:01:42 America/New_York] PHP Notice:  Undefined variable: product in /home/catangsd/public_html/foundation/resources/views/web/homePage.blade.php on line 186
+[24-Aug-2022 18:01:42 America/New_York] PHP Notice:  Trying to get property 'calling_no' of non-object in /home/catangsd/public_html/foundation/resources/views/web/homePage.blade.php on line 186
+[09-Sep-2022 08:37:55 America/New_York] PHP Notice:  Undefined variable: product in /home/catangsd/public_html/foundation/resources/views/web/homePage.blade.php on line 180
+[09-Sep-2022 08:37:55 America/New_York] PHP Notice:  Trying to get property 'whatsapp_no' of non-object in /home/catangsd/public_html/foundation/resources/views/web/homePage.blade.php on line 180
+[09-Sep-2022 08:37:55 America/New_York] PHP Notice:  Undefined variable: product in /home/catangsd/public_html/foundation/resources/views/web/homePage.blade.php on line 186
+[09-Sep-2022 08:37:55 America/New_York] PHP Notice:  Trying to get property 'calling_no' of non-object in /home/catangsd/public_html/foundation/resources/views/web/homePage.blade.php on line 186
+[09-Sep-2022 08:46:50 America/New_York] PHP Notice:  Undefined variable: product in /home/catangsd/public_html/foundation/resources/views/web/homePage.blade.php on line 180
+[09-Sep-2022 08:46:50 America/New_York] PHP Notice:  Trying to get property 'whatsapp_no' of non-object in /home/catangsd/public_html/foundation/resources/views/web/homePage.blade.php on line 180
+[09-Sep-2022 08:46:50 America/New_York] PHP Notice:  Undefined variable: product in /home/catangsd/public_html/foundation/resources/views/web/homePage.blade.php on line 186
+[09-Sep-2022 08:46:50 America/New_York] PHP Notice:  Trying to get property 'calling_no' of non-object in /home/catangsd/public_html/foundation/resources/views/web/homePage.blade.php on line 186
+[14-Sep-2022 16:54:23 America/New_York] PHP Notice:  Undefined variable: product in /home/catangsd/public_html/foundation/resources/views/web/homePage.blade.php on line 180
+[14-Sep-2022 16:54:23 America/New_York] PHP Notice:  Trying to get property 'whatsapp_no' of non-object in /home/catangsd/public_html/foundation/resources/views/web/homePage.blade.php on line 180
+[14-Sep-2022 16:54:23 America/New_York] PHP Notice:  Undefined variable: product in /home/catangsd/public_html/foundation/resources/views/web/homePage.blade.php on line 186
+[14-Sep-2022 16:54:23 America/New_York] PHP Notice:  Trying to get property 'calling_no' of non-object in /home/catangsd/public_html/foundation/resources/views/web/homePage.blade.php on line 186

@@ -1,0 +1,64 @@
+[11-Aug-2022 15:30:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/catangsd/public_html/foundation/app/Http/Controllers/productController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Controllers/productController.php on line 10
+[12-Aug-2022 12:36:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/catangsd/public_html/foundation/app/Http/Controllers/productController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Controllers/productController.php on line 10
+[12-Aug-2022 18:22:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/catangsd/public_html/foundation/app/Http/Controllers/frontController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Controllers/frontController.php on line 9
+[12-Aug-2022 18:22:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/catangsd/public_html/foundation/app/Http/Controllers/productController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Controllers/productController.php on line 10
+[13-Aug-2022 04:46:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/catangsd/public_html/foundation/app/Http/Controllers/authController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Controllers/authController.php on line 9
+[13-Aug-2022 04:47:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/catangsd/public_html/foundation/app/Http/Controllers/frontController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Controllers/frontController.php on line 9
+[13-Aug-2022 09:29:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/catangsd/public_html/foundation/app/Http/Controllers/frontController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Controllers/frontController.php on line 9
+[13-Aug-2022 09:29:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/catangsd/public_html/foundation/app/Http/Controllers/productController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Controllers/productController.php on line 10
+[13-Aug-2022 18:14:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/catangsd/public_html/foundation/app/Http/Controllers/authController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Controllers/authController.php on line 9
+[13-Aug-2022 18:14:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/catangsd/public_html/foundation/app/Http/Controllers/authController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Controllers/authController.php on line 9
+[13-Aug-2022 22:14:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/catangsd/public_html/foundation/app/Http/Controllers/frontController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Controllers/frontController.php on line 9
+[14-Aug-2022 04:57:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/catangsd/public_html/foundation/app/Http/Controllers/authController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Controllers/authController.php on line 9
+[14-Aug-2022 20:38:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/catangsd/public_html/foundation/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Controllers/Controller.php on line 10
+[14-Aug-2022 20:38:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/catangsd/public_html/foundation/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Controllers/Controller.php on line 10
+[14-Aug-2022 20:40:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/catangsd/public_html/foundation/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Controllers/Controller.php on line 10
+[15-Aug-2022 00:54:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Routing\Controller' not found in /home/catangsd/public_html/foundation/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Controllers/Controller.php on line 10

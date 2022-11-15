@@ -1,0 +1,112 @@
+[13-Aug-2022 04:50:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance' not found in /home/catangsd/public_html/foundation/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[13-Aug-2022 11:55:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance' not found in /home/catangsd/public_html/foundation/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[13-Aug-2022 22:15:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance' not found in /home/catangsd/public_html/foundation/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[14-Aug-2022 20:41:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance' not found in /home/catangsd/public_html/foundation/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[09-Sep-2022 22:14:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home/catangsd/public_html/foundation/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Middleware/Authenticate.php on line 7
+[09-Sep-2022 22:15:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/catangsd/public_html/foundation/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Middleware/EncryptCookies.php on line 7
+[09-Sep-2022 22:16:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/catangsd/public_html/foundation/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Middleware/TrimStrings.php on line 7
+[09-Sep-2022 22:17:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Middleware\TrustHosts' not found in /home/catangsd/public_html/foundation/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Middleware/TrustHosts.php on line 7
+[09-Sep-2022 22:18:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Fideloper\Proxy\TrustProxies' not found in /home/catangsd/public_html/foundation/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Middleware/TrustProxies.php on line 8
+[09-Sep-2022 22:19:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/catangsd/public_html/foundation/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[10-Sep-2022 06:13:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home/catangsd/public_html/foundation/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Middleware/Authenticate.php on line 7
+[10-Sep-2022 06:25:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/catangsd/public_html/foundation/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Middleware/TrimStrings.php on line 7
+[10-Sep-2022 06:25:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Middleware\TrustHosts' not found in /home/catangsd/public_html/foundation/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Middleware/TrustHosts.php on line 7
+[10-Sep-2022 06:25:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Fideloper\Proxy\TrustProxies' not found in /home/catangsd/public_html/foundation/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Middleware/TrustProxies.php on line 8
+[10-Sep-2022 06:34:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/catangsd/public_html/foundation/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Middleware/EncryptCookies.php on line 7
+[10-Sep-2022 06:34:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/catangsd/public_html/foundation/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[10-Sep-2022 19:21:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home/catangsd/public_html/foundation/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Middleware/Authenticate.php on line 7
+[10-Sep-2022 19:33:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/catangsd/public_html/foundation/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Middleware/EncryptCookies.php on line 7
+[10-Sep-2022 19:56:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/catangsd/public_html/foundation/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Middleware/TrimStrings.php on line 7
+[10-Sep-2022 20:12:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Middleware\TrustHosts' not found in /home/catangsd/public_html/foundation/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Middleware/TrustHosts.php on line 7
+[10-Sep-2022 20:19:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Fideloper\Proxy\TrustProxies' not found in /home/catangsd/public_html/foundation/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Middleware/TrustProxies.php on line 8
+[10-Sep-2022 20:51:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/catangsd/public_html/foundation/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[11-Sep-2022 12:06:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Auth\Middleware\Authenticate' not found in /home/catangsd/public_html/foundation/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Middleware/Authenticate.php on line 7
+[11-Sep-2022 12:37:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home/catangsd/public_html/foundation/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Middleware/EncryptCookies.php on line 7
+[11-Sep-2022 13:07:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home/catangsd/public_html/foundation/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Middleware/TrimStrings.php on line 7
+[11-Sep-2022 13:22:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Middleware\TrustHosts' not found in /home/catangsd/public_html/foundation/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Middleware/TrustHosts.php on line 7
+[11-Sep-2022 13:54:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Fideloper\Proxy\TrustProxies' not found in /home/catangsd/public_html/foundation/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Middleware/TrustProxies.php on line 8
+[11-Sep-2022 14:17:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home/catangsd/public_html/foundation/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Middleware/VerifyCsrfToken.php on line 7

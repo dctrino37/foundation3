@@ -1,0 +1,24 @@
+[22-Jul-2022 12:03:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home/catangsd/public_html/foundation/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Kernel.php on line 7
+[22-Jul-2022 13:06:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home/catangsd/public_html/foundation/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Kernel.php on line 7
+[12-Aug-2022 02:03:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home/catangsd/public_html/foundation/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Kernel.php on line 7
+[12-Aug-2022 02:03:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home/catangsd/public_html/foundation/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Kernel.php on line 7
+[12-Aug-2022 12:30:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home/catangsd/public_html/foundation/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Kernel.php on line 7
+[13-Aug-2022 04:45:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home/catangsd/public_html/foundation/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Kernel.php on line 7

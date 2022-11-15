@@ -1,0 +1,1 @@
+{{trans('middle_east_office.report_spam')}}

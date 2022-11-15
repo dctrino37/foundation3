@@ -1,0 +1,80 @@
+[22-Jul-2022 13:50:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/catangsd/public_html/foundation/database/seeders/stateseeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/database/seeders/stateseeder.php on line 8
+[22-Jul-2022 13:50:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/catangsd/public_html/foundation/database/seeders/countryseeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/database/seeders/countryseeder.php on line 8
+[22-Jul-2022 13:50:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/catangsd/public_html/foundation/database/seeders/UsersTableDataSeeder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/database/seeders/UsersTableDataSeeder.php on line 10
+[22-Jul-2022 13:50:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/catangsd/public_html/foundation/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/database/seeders/DatabaseSeeder.php on line 7
+[29-Jul-2022 16:50:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/catangsd/public_html/foundation/database/seeders/UsersTableDataSeeder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/database/seeders/UsersTableDataSeeder.php on line 10
+[29-Jul-2022 23:20:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/catangsd/public_html/foundation/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/database/seeders/DatabaseSeeder.php on line 7
+[29-Jul-2022 23:20:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/catangsd/public_html/foundation/database/seeders/countryseeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/database/seeders/countryseeder.php on line 8
+[29-Jul-2022 23:21:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/catangsd/public_html/foundation/database/seeders/stateseeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/database/seeders/stateseeder.php on line 8
+[01-Aug-2022 04:32:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/catangsd/public_html/foundation/database/seeders/UsersTableDataSeeder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/database/seeders/UsersTableDataSeeder.php on line 10
+[01-Aug-2022 06:48:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/catangsd/public_html/foundation/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/database/seeders/DatabaseSeeder.php on line 7
+[01-Aug-2022 15:33:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/catangsd/public_html/foundation/database/seeders/countryseeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/database/seeders/countryseeder.php on line 8
+[01-Aug-2022 15:33:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/catangsd/public_html/foundation/database/seeders/stateseeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/database/seeders/stateseeder.php on line 8
+[04-Aug-2022 19:29:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/catangsd/public_html/foundation/database/seeders/UsersTableDataSeeder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/database/seeders/UsersTableDataSeeder.php on line 10
+[05-Aug-2022 12:45:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/catangsd/public_html/foundation/database/seeders/UsersTableDataSeeder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/database/seeders/UsersTableDataSeeder.php on line 10
+[06-Aug-2022 11:07:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/catangsd/public_html/foundation/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/database/seeders/DatabaseSeeder.php on line 7
+[06-Aug-2022 15:31:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/catangsd/public_html/foundation/database/seeders/countryseeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/database/seeders/countryseeder.php on line 8
+[07-Aug-2022 04:59:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/catangsd/public_html/foundation/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/database/seeders/DatabaseSeeder.php on line 7
+[07-Aug-2022 09:31:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/catangsd/public_html/foundation/database/seeders/countryseeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/database/seeders/countryseeder.php on line 8
+[07-Aug-2022 11:59:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/catangsd/public_html/foundation/database/seeders/stateseeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/database/seeders/stateseeder.php on line 8
+[07-Aug-2022 16:26:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Seeder' not found in /home/catangsd/public_html/foundation/database/seeders/stateseeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/database/seeders/stateseeder.php on line 8

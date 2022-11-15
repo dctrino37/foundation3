@@ -1,0 +1,16 @@
+[15-Aug-2022 00:54:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/catangsd/public_html/foundation/app/Http/Controllers/api/generalcontroller.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Controllers/api/generalcontroller.php on line 15
+[15-Aug-2022 00:54:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/catangsd/public_html/foundation/app/Http/Controllers/api/generalcontroller.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Controllers/api/generalcontroller.php on line 15
+[17-Aug-2022 06:32:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/catangsd/public_html/foundation/app/Http/Controllers/api/generalcontroller.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Controllers/api/generalcontroller.php on line 15
+[17-Aug-2022 06:32:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/catangsd/public_html/foundation/app/Http/Controllers/api/generalcontroller.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Http/Controllers/api/generalcontroller.php on line 15

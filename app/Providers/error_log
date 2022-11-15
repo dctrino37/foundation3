@@ -1,0 +1,108 @@
+[22-Jul-2022 12:26:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/catangsd/public_html/foundation/app/Providers/RouteServiceProvider.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Providers/RouteServiceProvider.php on line 11
+[22-Jul-2022 12:26:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/catangsd/public_html/foundation/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Providers/EventServiceProvider.php on line 10
+[22-Jul-2022 12:26:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/catangsd/public_html/foundation/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Providers/BroadcastServiceProvider.php on line 8
+[22-Jul-2022 12:27:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/catangsd/public_html/foundation/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Providers/AuthServiceProvider.php on line 8
+[22-Jul-2022 12:27:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/catangsd/public_html/foundation/app/Providers/AppServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Providers/AppServiceProvider.php on line 8
+[22-Jul-2022 13:06:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/catangsd/public_html/foundation/app/Providers/AppServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Providers/AppServiceProvider.php on line 8
+[22-Jul-2022 13:06:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/catangsd/public_html/foundation/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Providers/AuthServiceProvider.php on line 8
+[22-Jul-2022 13:06:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/catangsd/public_html/foundation/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Providers/BroadcastServiceProvider.php on line 8
+[22-Jul-2022 13:06:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/catangsd/public_html/foundation/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Providers/EventServiceProvider.php on line 10
+[22-Jul-2022 13:06:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/catangsd/public_html/foundation/app/Providers/RouteServiceProvider.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Providers/RouteServiceProvider.php on line 11
+[05-Aug-2022 12:45:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/catangsd/public_html/foundation/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Providers/BroadcastServiceProvider.php on line 8
+[05-Aug-2022 21:41:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/catangsd/public_html/foundation/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Providers/EventServiceProvider.php on line 10
+[06-Aug-2022 15:31:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/catangsd/public_html/foundation/app/Providers/RouteServiceProvider.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Providers/RouteServiceProvider.php on line 11
+[07-Aug-2022 07:11:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/catangsd/public_html/foundation/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Providers/BroadcastServiceProvider.php on line 8
+[07-Aug-2022 18:48:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/catangsd/public_html/foundation/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Providers/EventServiceProvider.php on line 10
+[08-Aug-2022 23:47:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/catangsd/public_html/foundation/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Providers/AuthServiceProvider.php on line 8
+[09-Aug-2022 16:44:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/catangsd/public_html/foundation/app/Providers/RouteServiceProvider.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Providers/RouteServiceProvider.php on line 11
+[09-Aug-2022 23:59:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/catangsd/public_html/foundation/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Providers/AuthServiceProvider.php on line 8
+[11-Aug-2022 05:00:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/catangsd/public_html/foundation/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Providers/BroadcastServiceProvider.php on line 8
+[11-Aug-2022 15:29:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/catangsd/public_html/foundation/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Providers/BroadcastServiceProvider.php on line 8
+[13-Aug-2022 13:55:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/catangsd/public_html/foundation/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Providers/AuthServiceProvider.php on line 8
+[13-Aug-2022 13:55:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/catangsd/public_html/foundation/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Providers/EventServiceProvider.php on line 10
+[13-Aug-2022 13:55:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/catangsd/public_html/foundation/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Providers/EventServiceProvider.php on line 10
+[13-Aug-2022 13:55:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/catangsd/public_html/foundation/app/Providers/RouteServiceProvider.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Providers/RouteServiceProvider.php on line 11
+[13-Aug-2022 18:11:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/catangsd/public_html/foundation/app/Providers/AppServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Providers/AppServiceProvider.php on line 8
+[13-Aug-2022 18:11:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/catangsd/public_html/foundation/app/Providers/AppServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Providers/AppServiceProvider.php on line 8
+[13-Aug-2022 18:11:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/catangsd/public_html/foundation/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Providers/AuthServiceProvider.php on line 8

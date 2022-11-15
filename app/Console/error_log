@@ -1,0 +1,52 @@
+[22-Jul-2022 12:06:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/catangsd/public_html/foundation/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Console/Kernel.php on line 8
+[22-Jul-2022 13:05:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/catangsd/public_html/foundation/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Console/Kernel.php on line 8
+[25-Jul-2022 05:41:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/catangsd/public_html/foundation/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Console/Kernel.php on line 8
+[25-Jul-2022 05:41:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/catangsd/public_html/foundation/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Console/Kernel.php on line 8
+[25-Jul-2022 05:41:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/catangsd/public_html/foundation/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Console/Kernel.php on line 8
+[25-Jul-2022 05:41:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/catangsd/public_html/foundation/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Console/Kernel.php on line 8
+[25-Jul-2022 05:41:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/catangsd/public_html/foundation/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Console/Kernel.php on line 8
+[25-Jul-2022 05:41:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/catangsd/public_html/foundation/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Console/Kernel.php on line 8
+[25-Jul-2022 05:41:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/catangsd/public_html/foundation/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Console/Kernel.php on line 8
+[07-Aug-2022 09:31:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/catangsd/public_html/foundation/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Console/Kernel.php on line 8
+[07-Aug-2022 21:09:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/catangsd/public_html/foundation/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Console/Kernel.php on line 8
+[11-Aug-2022 04:58:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/catangsd/public_html/foundation/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Console/Kernel.php on line 8
+[12-Aug-2022 08:31:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home/catangsd/public_html/foundation/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Console/Kernel.php on line 8

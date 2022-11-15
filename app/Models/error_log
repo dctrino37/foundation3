@@ -1,0 +1,328 @@
+[22-Jul-2022 12:01:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/user_detail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/user_detail.php on line 8
+[22-Jul-2022 12:01:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/role.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/role.php on line 8
+[22-Jul-2022 12:01:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/cms.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/cms.php on line 8
+[22-Jul-2022 12:01:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/catangsd/public_html/foundation/app/Models/User.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/User.php on line 10
+[22-Jul-2022 12:01:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/State.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/State.php on line 8
+[22-Jul-2022 12:01:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/Product.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/Product.php on line 8
+[22-Jul-2022 12:01:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/Country.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/Country.php on line 8
+[22-Jul-2022 12:37:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/user_detail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/user_detail.php on line 8
+[22-Jul-2022 12:38:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/role.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/role.php on line 8
+[22-Jul-2022 12:38:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/cms.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/cms.php on line 8
+[22-Jul-2022 12:38:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/catangsd/public_html/foundation/app/Models/User.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/User.php on line 10
+[22-Jul-2022 12:38:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/State.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/State.php on line 8
+[22-Jul-2022 12:38:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/Product.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/Product.php on line 8
+[22-Jul-2022 12:39:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/Country.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/Country.php on line 8
+[25-Jul-2022 05:41:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/Country.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/Country.php on line 8
+[25-Jul-2022 05:41:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/Country.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/Country.php on line 8
+[25-Jul-2022 05:41:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/catangsd/public_html/foundation/app/Models/User.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/User.php on line 10
+[25-Jul-2022 05:41:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/user_detail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/user_detail.php on line 8
+[25-Jul-2022 05:41:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/user_detail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/user_detail.php on line 8
+[25-Jul-2022 05:41:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/State.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/State.php on line 8
+[25-Jul-2022 05:41:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/Product.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/Product.php on line 8
+[25-Jul-2022 05:41:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/State.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/State.php on line 8
+[25-Jul-2022 05:41:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/State.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/State.php on line 8
+[25-Jul-2022 05:41:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/Product.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/Product.php on line 8
+[25-Jul-2022 05:41:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/catangsd/public_html/foundation/app/Models/User.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/User.php on line 10
+[25-Jul-2022 05:41:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/user_detail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/user_detail.php on line 8
+[25-Jul-2022 05:41:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/Country.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/Country.php on line 8
+[25-Jul-2022 05:41:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/cms.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/cms.php on line 8
+[25-Jul-2022 05:41:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/Product.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/Product.php on line 8
+[25-Jul-2022 05:41:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/role.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/role.php on line 8
+[25-Jul-2022 05:41:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/role.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/role.php on line 8
+[25-Jul-2022 05:41:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/State.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/State.php on line 8
+[25-Jul-2022 05:41:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/role.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/role.php on line 8
+[25-Jul-2022 05:41:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/cms.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/cms.php on line 8
+[25-Jul-2022 05:41:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/Country.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/Country.php on line 8
+[25-Jul-2022 05:41:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/catangsd/public_html/foundation/app/Models/User.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/User.php on line 10
+[25-Jul-2022 05:41:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/cms.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/cms.php on line 8
+[25-Jul-2022 05:41:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/catangsd/public_html/foundation/app/Models/User.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/User.php on line 10
+[25-Jul-2022 05:41:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/Country.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/Country.php on line 8
+[25-Jul-2022 05:41:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/cms.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/cms.php on line 8
+[25-Jul-2022 05:41:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/role.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/role.php on line 8
+[25-Jul-2022 05:41:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/Country.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/Country.php on line 8
+[25-Jul-2022 05:41:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/Country.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/Country.php on line 8
+[25-Jul-2022 05:41:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/Product.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/Product.php on line 8
+[25-Jul-2022 05:41:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/role.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/role.php on line 8
+[25-Jul-2022 05:41:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/role.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/role.php on line 8
+[25-Jul-2022 05:41:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/user_detail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/user_detail.php on line 8
+[25-Jul-2022 05:41:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/cms.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/cms.php on line 8
+[25-Jul-2022 05:41:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/role.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/role.php on line 8
+[25-Jul-2022 05:41:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/cms.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/cms.php on line 8
+[25-Jul-2022 05:41:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/cms.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/cms.php on line 8
+[25-Jul-2022 05:41:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/Product.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/Product.php on line 8
+[25-Jul-2022 05:41:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/State.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/State.php on line 8
+[25-Jul-2022 05:42:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/user_detail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/user_detail.php on line 8
+[08-Aug-2022 23:49:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/user_detail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/user_detail.php on line 8
+[09-Aug-2022 16:44:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/user_detail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/user_detail.php on line 8
+[09-Aug-2022 23:59:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/Country.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/Country.php on line 8
+[09-Aug-2022 23:59:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/Product.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/Product.php on line 8
+[11-Aug-2022 15:30:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/Country.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/Country.php on line 8
+[12-Aug-2022 12:36:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/user_detail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/user_detail.php on line 8
+[13-Aug-2022 04:46:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/user_detail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/user_detail.php on line 8
+[13-Aug-2022 18:14:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/Product.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/Product.php on line 8
+[15-Aug-2022 00:54:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/State.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/State.php on line 8
+[15-Aug-2022 21:17:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/State.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/State.php on line 8
+[15-Aug-2022 21:17:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/role.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/role.php on line 8
+[16-Aug-2022 01:35:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/Country.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/Country.php on line 8
+[16-Aug-2022 01:35:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/Product.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/Product.php on line 8
+[16-Aug-2022 01:35:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/Product.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/Product.php on line 8
+[16-Aug-2022 01:35:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/catangsd/public_html/foundation/app/Models/User.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/User.php on line 10
+[16-Aug-2022 01:37:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/catangsd/public_html/foundation/app/Models/User.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/User.php on line 10
+[16-Aug-2022 01:40:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/cms.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/cms.php on line 8
+[16-Aug-2022 01:45:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/role.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/role.php on line 8
+[16-Aug-2022 03:58:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/Country.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/Country.php on line 8
+[16-Aug-2022 03:58:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/State.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/State.php on line 8
+[16-Aug-2022 03:58:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/catangsd/public_html/foundation/app/Models/User.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/User.php on line 10
+[16-Aug-2022 03:58:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/role.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/role.php on line 8
+[16-Aug-2022 04:00:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/cms.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/cms.php on line 8
+[16-Aug-2022 06:29:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/State.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/State.php on line 8
+[16-Aug-2022 06:30:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home/catangsd/public_html/foundation/app/Models/User.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/User.php on line 10
+[16-Aug-2022 06:32:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/cms.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/cms.php on line 8
+[16-Aug-2022 08:44:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/role.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/role.php on line 8
+[16-Aug-2022 17:47:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Model' not found in /home/catangsd/public_html/foundation/app/Models/cms.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Models/cms.php on line 8

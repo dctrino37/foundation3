@@ -1,0 +1,24 @@
+[22-Jul-2022 12:02:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Mail\Mailable' not found in /home/catangsd/public_html/foundation/app/Mail/git_mail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Mail/git_mail.php on line 10
+[22-Jul-2022 12:39:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Mail\Mailable' not found in /home/catangsd/public_html/foundation/app/Mail/git_mail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Mail/git_mail.php on line 10
+[11-Aug-2022 05:00:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Mail\Mailable' not found in /home/catangsd/public_html/foundation/app/Mail/git_mail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Mail/git_mail.php on line 10
+[11-Aug-2022 15:28:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Mail\Mailable' not found in /home/catangsd/public_html/foundation/app/Mail/git_mail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Mail/git_mail.php on line 10
+[12-Aug-2022 18:21:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Mail\Mailable' not found in /home/catangsd/public_html/foundation/app/Mail/git_mail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Mail/git_mail.php on line 10
+[12-Aug-2022 18:21:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Mail\Mailable' not found in /home/catangsd/public_html/foundation/app/Mail/git_mail.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Mail/git_mail.php on line 10

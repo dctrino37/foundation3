@@ -1,0 +1,24 @@
+[22-Jul-2022 12:04:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/catangsd/public_html/foundation/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Exceptions/Handler.php on line 8
+[22-Jul-2022 13:06:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/catangsd/public_html/foundation/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Exceptions/Handler.php on line 8
+[05-Aug-2022 12:44:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/catangsd/public_html/foundation/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Exceptions/Handler.php on line 8
+[06-Aug-2022 02:05:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/catangsd/public_html/foundation/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Exceptions/Handler.php on line 8
+[10-Aug-2022 22:31:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/catangsd/public_html/foundation/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Exceptions/Handler.php on line 8
+[10-Aug-2022 22:57:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/catangsd/public_html/foundation/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/app/Exceptions/Handler.php on line 8

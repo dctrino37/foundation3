@@ -1,0 +1,20 @@
+[22-Jul-2022 13:51:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Factories\Factory' not found in /home/catangsd/public_html/foundation/database/factories/UserFactory.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/database/factories/UserFactory.php on line 9
+[29-Jul-2022 14:47:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Factories\Factory' not found in /home/catangsd/public_html/foundation/database/factories/UserFactory.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/database/factories/UserFactory.php on line 9
+[01-Aug-2022 02:04:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Factories\Factory' not found in /home/catangsd/public_html/foundation/database/factories/UserFactory.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/database/factories/UserFactory.php on line 9
+[04-Aug-2022 19:29:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Factories\Factory' not found in /home/catangsd/public_html/foundation/database/factories/UserFactory.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/database/factories/UserFactory.php on line 9
+[05-Aug-2022 00:45:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Eloquent\Factories\Factory' not found in /home/catangsd/public_html/foundation/database/factories/UserFactory.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/database/factories/UserFactory.php on line 9

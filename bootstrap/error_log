@@ -1,0 +1,100 @@
+[22-Jul-2022 11:41:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/catangsd/public_html/foundation/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/bootstrap/app.php on line 14
+[22-Jul-2022 12:09:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/catangsd/public_html/foundation/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/bootstrap/app.php on line 14
+[22-Jul-2022 12:09:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/catangsd/public_html/foundation/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/bootstrap/app.php on line 14
+[22-Jul-2022 12:09:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/catangsd/public_html/foundation/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/bootstrap/app.php on line 14
+[22-Jul-2022 12:09:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/catangsd/public_html/foundation/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/bootstrap/app.php on line 14
+[22-Jul-2022 12:09:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/catangsd/public_html/foundation/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/bootstrap/app.php on line 14
+[22-Jul-2022 12:09:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/catangsd/public_html/foundation/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/bootstrap/app.php on line 14
+[22-Jul-2022 12:09:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/catangsd/public_html/foundation/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/bootstrap/app.php on line 14
+[22-Jul-2022 12:36:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/catangsd/public_html/foundation/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/bootstrap/app.php on line 14
+[25-Jul-2022 03:14:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/catangsd/public_html/foundation/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/bootstrap/app.php on line 14
+[25-Jul-2022 03:14:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/catangsd/public_html/foundation/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/bootstrap/app.php on line 14
+[25-Jul-2022 03:14:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/catangsd/public_html/foundation/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/bootstrap/app.php on line 14
+[25-Jul-2022 03:14:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/catangsd/public_html/foundation/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/bootstrap/app.php on line 14
+[25-Jul-2022 03:14:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/catangsd/public_html/foundation/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/bootstrap/app.php on line 14
+[25-Jul-2022 03:14:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/catangsd/public_html/foundation/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/bootstrap/app.php on line 14
+[25-Jul-2022 03:14:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/catangsd/public_html/foundation/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/bootstrap/app.php on line 14
+[25-Jul-2022 05:40:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/catangsd/public_html/foundation/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/bootstrap/app.php on line 14
+[25-Jul-2022 05:40:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/catangsd/public_html/foundation/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/bootstrap/app.php on line 14
+[25-Jul-2022 05:40:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/catangsd/public_html/foundation/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/bootstrap/app.php on line 14
+[25-Jul-2022 05:40:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/catangsd/public_html/foundation/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/bootstrap/app.php on line 14
+[25-Jul-2022 05:41:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/catangsd/public_html/foundation/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/bootstrap/app.php on line 14
+[29-Jul-2022 05:42:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/catangsd/public_html/foundation/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/bootstrap/app.php on line 14
+[29-Jul-2022 10:33:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/catangsd/public_html/foundation/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/bootstrap/app.php on line 14
+[02-Aug-2022 13:56:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/catangsd/public_html/foundation/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/bootstrap/app.php on line 14
+[04-Aug-2022 19:28:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/catangsd/public_html/foundation/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/catangsd/public_html/foundation/bootstrap/app.php on line 14
